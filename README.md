@@ -3,3 +3,5 @@
 
 
 - [GPSデータ gpx](https://github.com/gsc-aoyama/FieldTrip4GSC2016odawara/blob/master/FieldTrip2016-06-12_odawara.gpx)
+
+![スクリーンキャプチャ](https://github.com/reminvoooo/FieldTrip4GSC2016odawara/blob/master/GPS.png?raw=true)
